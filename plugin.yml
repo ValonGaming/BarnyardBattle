@@ -1,0 +1,9 @@
+name: BarnyardBattle
+main: me.valon.BarnyardBattle.Main.BarnyardBattle
+version: 1.0
+author: Valon
+commands:
+    bb:
+        usage: /<command>
+        description: Default command.
+        aliases: [barnyardbattle, bbattle, barnyardb]
